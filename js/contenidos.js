@@ -14,5 +14,15 @@ window.PORTAL_DATA = {
     {id:'ejemplo-beamer',course:'inteligencia-artificial',title:'Ejemplo: presentación de clase en PDF',topic:'Introducción',type:'presentacion',url:'materiales/ejemplos/presentacion-ejemplo.pdf',date:'',demo:true},
     {id:'guia-python',course:'mecatronica-computacional',title:'Ejemplo: práctica de programación en Python',topic:'Programación',type:'practica',url:'materiales/ejemplos/practica-ejemplo.pdf',date:'',demo:true},
     {id:'script-python',course:'mecatronica-computacional',title:'Ejemplo: código Python descargable',topic:'Programación',type:'codigo',url:'materiales/ejemplos/programa-ejemplo.py',date:'',demo:true}
+     {
+  id: 'ia-clase01',
+  course: 'inteligencia-artificial',
+  title: 'Clase 01 — Introducción a la IA',
+  topic: 'Unidad 1',
+  type: 'presentacion',
+  url: 'materiales/ia/IA_clase_1_Introduccion_IA.pdf',
+  date: '2026-10-22',
+  demo: false
+}
   ]
 };
