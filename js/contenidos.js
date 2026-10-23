@@ -20,7 +20,7 @@ window.PORTAL_DATA = {
   title: 'Clase 01 — Introducción a la IA',
   topic: 'Unidad 1',
   type: 'presentacion',
-  url: 'materiales/ia/clase01.pdf',
+  url: 'materiales/ia/Captura de pantalla 2026-06-06 060212.png',
   date: '',
   demo: false
 }
